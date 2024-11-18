@@ -6,6 +6,7 @@ public class Ciclo_for {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+        System.out.println("PRIMER CAMBIO ");
        
         System.out.println("Cantidad de repeticion ");
         int can = entrada.nextInt();
